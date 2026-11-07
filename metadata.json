@@ -1,0 +1,11 @@
+{
+  "name": "GLOBAL CONNECT",
+  "description": "Offline-first communication platform for nearby Android devices without internet, SIM card, or Wi-Fi routers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
